@@ -7,3 +7,5 @@
 
 Çıktı:
 
+![cikti](https://user-images.githubusercontent.com/34796984/71770787-1a12ad00-2f42-11ea-9101-876f71167120.png)
+
